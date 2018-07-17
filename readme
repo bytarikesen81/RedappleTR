@@ -1,0 +1,69 @@
+REDAPPLE TAMAMEN YERLİ TÜRK MULTI-HACK SCRIPT V.1.1 
+(11.09.2018)
+
+HAKKINDA
+---------------
+Menüleri amamen Türkçe Diliyle Hazırlanmış Olan Bu Script,Shell Scripti Halinde Yazılmıştır
+Debian Ve Arch Tipi İşletim Sistemlerinde Test Edilmiş Olup,Sorunsuz Çalışmaktadır
+
+İÇİNDEKİLER
+------------------------
+1.KEŞFET/ARA
+ 1.a IP Adresi Sorgula
+ 1.b DNS Listesi
+ 1.c Ping-Sweep Modu
+ 1.d Hızlı Port Taraması
+ 1.e Gelişmiş Port Taraması
+ 1.f UDP Taraması
+ 1.g Çalışan Sunucuları Kontrol Et 
+ 1.h IP Güvenlik Taraması
+
+2.SALDIRI BAŞLAT
+ 2.a ICMP Echo Ping Saldırısı	
+ 2.b Blacknurse Dos Saldırısı
+ 2.c TCP SYN Flood Saldırısı
+ 2.d TCP RST Flood Saldırısı
+ 2.e TCP XMAS Flood Saldırısı
+ 2.f UDP Flood Saldırısı
+ 2.g SSL DOS Saldırısı
+ 2.h Slowloris Saldırısı
+ 2.i IPSec DOS Saldırısı
+ 2.j Geciktirme Taraması
+ 2.k DNS NXDOMAIN Flood Saldırısı
+3.DOSYA YÖNETİCİSİ
+ 3.a Dosya Gönder
+ 3.b Dinleyici Oluştur
+4.YARDIM VE HAKKINDA
+ *BU METİN BELGESİNİ ÇALIŞTIRIR
+5.ÇIKIŞ
+ *PROGRAMI SONLANDIRIR
+
+KULLANILAN GEREKLİ VERİ İSTEMCİLERİ
+-------------------------------------------
+Netcat
+Hping3
+Openssl
+Stunnel
+Nmap
+Whois
+Nslookup/Host
+İke-Scan
+
+YARDIM VE DESTEK
+-------------------
+Gerekli Yardım Ve Sorularınız İçin:
+
+
+
+
+PROGRAMLAYICI HAKKINDA
+---------------------------
+2018,Tarik Esen(c)
+Programlayıcının Herhangi Bir Siber Forum İle Veyahut
+Türk-Hack Grup ya da Örgütüyle Bir Alakası Olmamakla Birlikte Tamamen 
+Bağımsız Olarak Hazırlanmıştır
+
+İLETİŞİM İÇİN:bytarikesen81@gmail.com
+
+YAZDIĞI DİĞER PROGRAMLAR
+*BomberTR:
